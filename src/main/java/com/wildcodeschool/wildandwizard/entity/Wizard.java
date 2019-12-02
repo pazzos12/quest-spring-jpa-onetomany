@@ -92,7 +92,7 @@ public class Wizard {
         return school;
     }
 
-    public void setCategory(School school) {
+    public void setSchool(School school) {
         this.school = school;
     }
 }
